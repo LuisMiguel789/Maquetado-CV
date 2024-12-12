@@ -1,2 +1,2 @@
 # Maquetado-CV
-mi cv
+Maquetado de mi curriculum vitae
